@@ -9,3 +9,5 @@ Things to improve on:
 2. I want to rework the timing mechanism. For now it counts the frequency of the jumps. What could be more interesting is how frequently obstacles are detected, which could increase detection range. Could slow it down, but like I said, as of now the script cannot keep up.
 
 Otherwise enjoy!
+
+![hippo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxkbzZ6djR5aDNnaGhzdGRuZzF3dnAwM2Z6Zjh0NW03YzJoZWpseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SNy3XfJ7p9FCOeISVu/giphy.gif)

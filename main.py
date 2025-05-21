@@ -10,4 +10,3 @@ time.sleep(5)
 pyautogui.press('space')
 
 functions.start_bot()
- 
